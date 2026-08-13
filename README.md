@@ -52,7 +52,7 @@ Surveys and feedback collection have a thriving open-source ecosystem. Modern pr
 
 ### 🛠️ Core Frameworks & Survey Platforms
 
-| Project | Description | License | GitHub Stars | Focus / Notes |
+| Project | Description | License | GitHub_Stars | Focus / Notes |
 |---------|-------------|---------|--------------|---------------|
 | **[Formbricks](https://github.com/formbricks/formbricks)** | Open-source experience management & survey platform. Supports in-app, website, email, and link surveys. | AGPLv3 | [<img src="https://img.shields.io/github/stars/formbricks/formbricks?style=social&color=white" alt="Formbricks Stars"/>](https://github.com/formbricks/formbricks/stargazers) | Top modern open Typeform/Survicate alternative |
 | **[Typebot](https://github.com/baptisteArno/typebot.io)** | Open-source conversational form and chatbot builder with visual flow editor and integrations. | FSL (Fair-source) | [<img src="https://img.shields.io/github/stars/baptisteArno/typebot.io?style=social&color=white" alt="Typebot Stars"/>](https://github.com/baptisteArno/typebot.io/stargazers) | Conversational survey & chat flows |
