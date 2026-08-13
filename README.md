@@ -23,27 +23,16 @@ Commercial / hosted platforms are listed separately for completeness. Open-sourc
 
 
 | Platform | Description | Key Focus |
-
 |----------|-------------|-----------|
-
 | **[SurveyMonkey](https://www.surveymonkey.com/)** | One of the most widely used survey platforms with templates, advanced logic, analytics, panels, and enterprise features for market research and feedback. | General-purpose surveys & research |
-
 | **[Typeform](https://www.typeform.com/)** | Conversational, one-question-at-a-time surveys and forms known for high completion rates and beautiful design. | Conversational / design-first surveys |
-
 | **[Qualtrics](https://www.qualtrics.com/)** | Enterprise experience management (XM) platform for customer, employee, product, and brand insights with advanced analytics and workflows. | Enterprise XM & research |
-
 | **[Jotform](https://www.jotform.com/)** | Versatile form and survey builder with extensive templates, payments, widgets, and integrations. | Forms + surveys + templates |
-
 | **[Tally](https://tally.so/)** | Modern, Notion-style form and survey builder with a generous free plan and clean user experience. | Simple, unlimited free surveys |
-
 | **[Google Forms](https://forms.google.com/)** | Free, simple survey and quiz tool integrated with Google Workspace. Ideal for quick internal or educational use. | Free / Google Workspace surveys |
-
 | **[SurveySparrow](https://surveysparrow.com/)** | Conversational survey platform with omnichannel feedback, NPS, CES, CSAT, and employee engagement tools. | Conversational & omnichannel feedback |
-
 | **[Alchemer](https://www.alchemer.com/)** (formerly SurveyGizmo) | Flexible survey and feedback platform with strong logic, reporting, and enterprise capabilities. | Advanced surveys & feedback |
-
 | **[QuestionPro](https://www.questionpro.com/)** | Full-featured survey and research platform with communities, panels, and advanced analytics for insights teams. | Research & insights platform |
-
 | **[Formstack](https://www.formstack.com/)** | Forms, surveys, documents, and workflow platform oriented toward business process and data collection. | Forms + surveys + workflows |
 
 
@@ -65,21 +54,13 @@ Surveys and feedback collection have an excellent open-source ecosystem. Several
 
 
 | Project | Description | License | Notes |
-
 |---------|-------------|---------|-------|
-
 | **[Formbricks](https://github.com/formbricks/formbricks)** | Open-source survey and experience management platform. Supports link, in-app, website, and email surveys with targeting, analytics, and a modern editor. Closest comprehensive open alternative to Typeform/Survicate-style tools. | AGPLv3 | Top modern open survey / XM platform |
-
 | **[LimeSurvey](https://github.com/LimeSurvey/LimeSurvey)** | Mature, full-featured open-source survey platform widely used in research, academia, government, and enterprises. Extremely capable with complex logic, multilingual support, and self-hosting. | GPL | Most mature open-source survey system |
-
 | **[HeyForm](https://github.com/heyform/heyform)** | Open-source conversational form and survey builder focused on one-question-at-a-time experiences, quizzes, and polls. | AGPL-3.0 | Strong Typeform-style open alternative |
-
 | **[Typebot](https://github.com/baptisteArno/typebot.io)** | Open-source conversational form and chatbot builder with visual flow editor, conditional logic, and integrations. Excellent for chat-style surveys. | Functional Source License (fair-source) | Conversational survey flows |
-
 | **[OpnForm](https://github.com/OpnForm/OpnForm)** | Clean, modern open-source no-code form and survey builder with polished UI and self-hosting support. | AGPL | Polished general-purpose open builder |
-
 | **[Form.io](https://github.com/formio)** | Developer-focused, JSON-schema-driven form and data platform. Strong for embedding surveys in applications (open-core model). | Open-core | Embeddable / developer survey forms |
-
 | **Other survey engines** | Community and academic tools built on similar stacks for specialized research surveys. | Various | Niche / research-focused |
 
 
@@ -89,19 +70,12 @@ Surveys and feedback collection have an excellent open-source ecosystem. Several
 
 
 | Project | Description | Focus Area |
-
 |---------|-------------|---------|
-
 | **SurveyJS** | Open-source JavaScript libraries for building surveys and forms in web applications (with commercial options for advanced features). | Embeddable survey UI |
-
 | **Form libraries** | React Hook Form, Formik, JSON Forms, and similar for custom survey interfaces. | Custom survey front-ends |
-
 | **Analytics & dashboards** | Metabase, Apache Superset, Grafana, or Streamlit apps for analyzing survey responses. | Response analytics |
-
 | **Panel & sampling tools** | Open approaches for managing respondent panels or integrating with research panels. | Research operations |
-
 | **Statistical analysis** | R, Python (pandas, scipy, psychometrics packages), and Jupyter for advanced survey analysis. | Data analysis |
-
 | **Privacy & consent** | Open tools for GDPR/CCPA consent management and data minimization in surveys. | Compliance |
 
 
@@ -139,33 +113,19 @@ Surveys and feedback collection have an excellent open-source ecosystem. Several
 
 
 | Goal | Recommended Starting Point |
-
 |------|---------------------------|
-
 | Best overall open-source survey / XM platform | **Formbricks** |
-
 | Mature, research-grade surveys | **LimeSurvey** |
-
 | Conversational one-question-at-a-time surveys | **HeyForm** or **Typebot** |
-
 | Clean general-purpose open survey builder | **OpnForm** |
-
 | Embeddable / developer surveys | **Form.io** or **SurveyJS** |
-
 | Enterprise experience management | **Qualtrics** |
-
 | Widely used general surveys | **SurveyMonkey** |
-
 | Beautiful conversational surveys | **Typeform** |
-
 | Feature-rich templates + forms | **Jotform** |
-
 | Unlimited free simple surveys | **Tally** or **Google Forms** |
-
 | Conversational + omnichannel feedback | **SurveySparrow** |
-
 | Advanced flexible surveys | **Alchemer** or **QuestionPro** |
-
 | Forms + surveys + workflows | **Formstack** |
 
 
